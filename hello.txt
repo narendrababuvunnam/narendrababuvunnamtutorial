@@ -1,9 +1,0 @@
-I am interested in learning advanced concepts 
-
-i am using clone to create master in git account
-
-i am using repo to locate my location
-
-we have 7 technical terms for now in git
-
-git is a god and subVersion is ok type.
